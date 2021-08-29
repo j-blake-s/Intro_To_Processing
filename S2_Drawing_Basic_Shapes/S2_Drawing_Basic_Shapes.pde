@@ -1,6 +1,5 @@
 /*
    Blake Seekings
-   8/27/2021
     
    This tutorial will look at how to draw different shapes to the canvas. 
 */
